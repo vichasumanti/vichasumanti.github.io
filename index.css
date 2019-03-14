@@ -1,0 +1,37 @@
+body{
+	background: url('segi.gif') no-repeat /*no-repeat fixed*/;
+	background-size: cover;
+	font-family: Arial;
+	text-align: center;
+}
+header{
+	height: 200vh;	
+	background-size: contain;
+	background-position: center;
+}
+
+ul li{
+	margin: 0px;
+	padding: 0px;
+	width: 200px;
+	height: 35px;
+	list-style: none;
+	background-color: black;
+	opacity: .8;
+	line-height: 25px;
+	text-align: center;
+	font-size: 20px;
+	margin-right: 3px;
+}
+
+ul li a:hover{
+	background-color: pink;
+}
+
+
+
+
+.dropdown-menu:hover{
+	background-color: yellow;
+	}
+ 
